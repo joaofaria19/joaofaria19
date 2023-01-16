@@ -33,7 +33,7 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 <br/>
 
 ### My Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vkarampinis&count_private=true&show_icons=true" />
+<img align="left" alt="João's Github Stats" src="https://github-readme-stats.vercel.app/api?username=29medium&show_icons=true&hide_border=true&theme=dracula" />
 <!---
 joaofaria19/joaofaria19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
