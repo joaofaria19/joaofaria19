@@ -1,8 +1,9 @@
-### joaofaria19
+### (joaofaria19)
 <br />
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm João Faria</h1>
 
 <br/>
+
 ### About Me
 
 - ⚡ I’m passionate about technology! 
@@ -35,6 +36,7 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
+
 ### My Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vkarampinis&count_private=true&show_icons=true" />
 <!---
