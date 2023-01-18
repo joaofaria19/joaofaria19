@@ -42,6 +42,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### 📊 My Stats
 ![João Faria's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaofaria19&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofaria&layout=compact)
 <!---
 joaofaria19/joaofaria19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
