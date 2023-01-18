@@ -1,5 +1,5 @@
 ### (joaofaria19)
-<img align='center' src="https://raw.githubusercontent.com/joaofaria19/joaofaria19/master/code.gif" width="100px">
+<img align='center' alt "GIF" src="https://raw.githubusercontent.com/joaofaria19/joaofaria19/master/code.gif" width="500px">
 <br />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm João Faria</h1>
 <br/>
