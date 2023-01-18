@@ -4,15 +4,15 @@
 <br/>
 <img align='right' src="https://raw.githubusercontent.com/joaofaria19/joaofaria19/master/github.gif" width="200px">
 
-### About Me
+### 🙋‍♂️ About Me
 
-- ⚡ I’m passionate about technology! 
-- 🚀 I’m interested in Coding and Programming! 
+- 🚀 I’m interested in Technology and Programming! 
 - 💻 I’m currently a student at _Universidade do Minho, Portugal_!
+- 📖 I'm currently studing Computer Science!
 - 📫 Leave a message
 <br/>
 
-### Languages and Tools:
+### 🔧 Languages and Tools:
 <img align="left" alt="Python" width="26px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="26px"
@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br/>
 
 
-### My Stats
+### 📊 My Stats
 <img align="center" alt="João Faria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaofaria19&show_icons=true&hide_border=true&theme=dracula" />
 <!---
 joaofaria19/joaofaria19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
