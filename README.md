@@ -14,6 +14,8 @@
 <br/>
 
 ### 🔧 Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,python,java,c,haskell,sql,mongodb,nodejs,git,github,linux,docker,gcp,md,latex)](https://skillicons.dev)
+<!--
 <img align="left" alt="Python" width="26px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="26px"
@@ -40,15 +42,13 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 <img align="left" alt="Linux" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
-
+--->
 
 <br/>
 
-
-
 ### 📊 My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaofaria19&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofaria19&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofaria19&layout=compact&theme=github_dark)
 <!---
 joaofaria19/joaofaria19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
