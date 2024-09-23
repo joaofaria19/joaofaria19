@@ -14,7 +14,7 @@
 <br/>
 
 ### 🔧 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,python,java,c,haskell,sql,mongodb,nodejs,git,github,linux,docker,gcp,md,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,py,java,c,haskell,postgres,mongodb,nodejs,git,github,linux,docker,postman,gcp,md,latex&perline=5)](https://skillicons.dev)
 <!--
 <img align="left" alt="Python" width="26px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
